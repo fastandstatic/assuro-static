@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comentarios para Assuro	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description></description>
-	<lastBuildDate>Tue, 12 Dec 2023 17:30:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Dec 2023 21:39:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
