@@ -2,7 +2,34 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2022-12-21T17:01:10+00:00</lastmod>
+		<lastmod>2023-12-13T17:11:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Grupo-7598.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Grupo-7599.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/ilustracion-3d-mano-que-sostiene-lista-verificacion-telefonos-inteligentes.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/ilustracion-3d-mano-que-sostiene-lista-verificacion-telefonos-inteligentes.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/ilustracion-3d-mano-que-sostiene-lista-verificacion-telefonos-inteligentes.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/ilustracion-3d-mano-que-sostiene-lista-verificacion-telefonos-inteligentes.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/icono-3d-apreton-manos-marca-verificacion-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/3d-render-mano-sujetando-concepto-negocio-estrellas-doradas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38.png</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/conocimiento-gratis/</loc>
@@ -47,6 +74,10 @@
 	<url>
 		<loc>/solicitar-asesoria-tu-hijos/</loc>
 		<lastmod>2022-12-01T15:25:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/inicio/</loc>
+		<lastmod>2022-12-21T17:01:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/contactanos/</loc>
@@ -247,37 +278,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/avion-3d-elemento-viaje-ilustracion-3d.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/seguros-assuro/</loc>
-		<lastmod>2023-12-12T20:35:54+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-7598.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-7599.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ilustracion-3d-mano-que-sostiene-lista-verificacion-telefonos-inteligentes.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ilustracion-3d-mano-que-sostiene-lista-verificacion-telefonos-inteligentes.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ilustracion-3d-mano-que-sostiene-lista-verificacion-telefonos-inteligentes.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ilustracion-3d-mano-que-sostiene-lista-verificacion-telefonos-inteligentes.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/icono-3d-apreton-manos-marca-verificacion-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/3d-render-mano-sujetando-concepto-negocio-estrellas-doradas.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38.png</image:loc>
 		</image:image>
 	</url>
 	<url>
