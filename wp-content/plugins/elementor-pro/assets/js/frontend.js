@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.18.0 - 06-12-2023 */
+/*! elementor-pro - v3.17.0 - 01-11-2023 */
 (self["webpackChunkelementor_pro"] = self["webpackChunkelementor_pro"] || []).push([["frontend"],{
 
 /***/ "../assets/dev/js/frontend/frontend.js":
@@ -186,9 +186,6 @@ class DropdownMenuHeightController {
     const menuToggleHeight = this.widgetConfig.elements.$dropdownMenuContainer.offset().top - jQuery(window).scrollTop();
     return elementorFrontend.elements.$window.height() - menuToggleHeight;
   }
-  calculateMenuTabContentHeight($tab) {
-    return elementorFrontend.elements.$window.height() - $tab[0].getBoundingClientRect().top;
-  }
   isElementSticky() {
     return this.widgetConfig.elements.$element.hasClass('elementor-sticky') || this.widgetConfig.elements.$element.parents('.elementor-sticky').length;
   }
@@ -201,25 +198,6 @@ class DropdownMenuHeightController {
   reassignMobileMenuHeight() {
     const menuHeight = this.isToggleActive() ? this.getMenuHeight() : 0;
     return this.setMenuHeight(menuHeight);
-  }
-  reassignMenuHeight($activeTabContent) {
-    if (!this.isElementSticky() || 0 === $activeTabContent.length) {
-      return;
-    }
-    const offsetBottom = elementorFrontend.elements.$window.height() - $activeTabContent[0].getBoundingClientRect().top,
-      isContentHeightBiggerThanWindow = $activeTabContent.height() > offsetBottom;
-    if (!isContentHeightBiggerThanWindow) {
-      return;
-    }
-    $activeTabContent.css('height', this.calculateMenuTabContentHeight($activeTabContent) + 'px');
-    $activeTabContent.css('overflow-y', 'scroll');
-  }
-  resetMenuHeight($activeTabContent) {
-    if (!this.isElementSticky()) {
-      return;
-    }
-    $activeTabContent.css('height', 'initial');
-    $activeTabContent.css('overflow-y', 'visible');
   }
   isToggleActive() {
     const $menuToggle = this.widgetConfig.elements.$menuToggle;
@@ -1212,7 +1190,7 @@ Object.defineProperty(exports, "__esModule", ({
   value: true
 }));
 exports["default"] = void 0;
-var _default = exports["default"] = elementorModules.frontend.handlers.Base.extend({
+var _default = elementorModules.frontend.handlers.Base.extend({
   currentConfig: {},
   debouncedReactivate: null,
   bindEvents() {
@@ -1373,6 +1351,7 @@ var _default = exports["default"] = elementorModules.frontend.handlers.Base.exte
     });
   }
 });
+exports["default"] = _default;
 
 /***/ }),
 
@@ -1492,14 +1471,14 @@ module.exports = _toPropertyKey, module.exports.__esModule = true, module.export
   \********************************************************/
 /***/ ((module) => {
 
-function _typeof(o) {
+function _typeof(obj) {
   "@babel/helpers - typeof";
 
-  return (module.exports = _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function (o) {
-    return typeof o;
-  } : function (o) {
-    return o && "function" == typeof Symbol && o.constructor === Symbol && o !== Symbol.prototype ? "symbol" : typeof o;
-  }, module.exports.__esModule = true, module.exports["default"] = module.exports), _typeof(o);
+  return (module.exports = _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function (obj) {
+    return typeof obj;
+  } : function (obj) {
+    return obj && "function" == typeof Symbol && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj;
+  }, module.exports.__esModule = true, module.exports["default"] = module.exports), _typeof(obj);
 }
 module.exports = _typeof, module.exports.__esModule = true, module.exports["default"] = module.exports;
 

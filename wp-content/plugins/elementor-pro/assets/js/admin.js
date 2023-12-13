@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.18.0 - 06-12-2023 */
+/*! elementor-pro - v3.17.0 - 01-11-2023 */
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -16,27 +16,18 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = void 0;
 class Module extends elementorModules.Module {
-  #actionLinks = [{
-    href: 'elementor_pro_renew_license_menu_link',
-    external_url: 'https://go.elementor.com/wp-menu-renew/'
-  }, {
-    href: 'elementor_pro_upgrade_license_menu_link',
-    external_url: 'https://go.elementor.com/go-pro-advanced-elementor-menu/'
-  }];
   onInit() {
-    this.assignMenuItemActions();
+    this.assignRenewMenuItemAction();
   }
-  assignMenuItemActions() {
+  assignRenewMenuItemAction() {
     window.addEventListener('DOMContentLoaded', () => {
-      this.#actionLinks.forEach(item => {
-        const link = document.querySelector(`a[href="${item.href}"]`);
-        if (!link) {
-          return;
-        }
-        link.addEventListener('click', e => {
-          e.preventDefault();
-          window.open(item.external_url, '_blank');
-        });
+      const link = document.querySelector('a[href="elementor_pro_renew_license_menu_link"]');
+      if (!link) {
+        return;
+      }
+      link.addEventListener('click', e => {
+        e.preventDefault();
+        window.open('https://go.elementor.com/wp-menu-renew/', '_blank');
       });
     });
   }
@@ -83,7 +74,9 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = void 0;
 class CustomAssetsBase extends elementorModules.ViewModule {
-  showAlertDialog(id, message, onConfirm = false, onHide = false) {
+  showAlertDialog(id, message) {
+    let onConfirm = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : false;
+    let onHide = arguments.length > 3 && arguments[3] !== undefined ? arguments[3] : false;
     const alertData = {
       id,
       message
@@ -135,7 +128,8 @@ class CustomAssetsBase extends elementorModules.ViewModule {
     this.elements.$postForm.on('submit', this.handleSubmit.bind(this));
   }
 }
-var _default = exports["default"] = CustomAssetsBase;
+var _default = CustomAssetsBase;
+exports["default"] = _default;
 
 /***/ }),
 
@@ -333,6 +327,7 @@ class CustomIcons extends _customAssetsBase.default {
     $publishButton.trigger('click');
   }
   onInit() {
+    var _this = this;
     const {
         $body
       } = elementorCommon.elements,
@@ -354,14 +349,17 @@ class CustomIcons extends _customAssetsBase.default {
       } = this.elements;
     if ('' === config) {
       $dropzone.show('fast');
-      dropzoneField.setSettings('onSuccess', (...args) => this.onSuccess(...args));
+      dropzoneField.setSettings('onSuccess', function () {
+        return _this.onSuccess(...arguments);
+      });
     } else {
       this.renderIcons(config);
     }
     $metaboxContainer.show('fast');
   }
 }
-var _default = exports["default"] = CustomIcons;
+var _default = CustomIcons;
+exports["default"] = _default;
 
 /***/ }),
 
@@ -525,12 +523,12 @@ class CustomFontsManager extends _customAssetsBase.default {
   titleRequired() {
     this.elements.$title.prop('required', true);
   }
-  onInit(...args) {
+  onInit() {
     const settings = this.getSettings();
     if (!jQuery('body').hasClass(settings.selectors.editPageClass)) {
       return;
     }
-    super.onInit(...args);
+    super.onInit(...arguments);
     this.removeCloseHandle();
     this.titleRequired();
     settings.fields.upload.init();
@@ -693,7 +691,8 @@ class DropZoneField extends elementorModules.ViewModule {
     elementorCommon.elements.$document.trigger('onDropzoneLoaded', [this]);
   }
 }
-var _default = exports["default"] = DropZoneField;
+var _default = DropZoneField;
+exports["default"] = _default;
 
 /***/ }),
 
@@ -1425,8 +1424,9 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = void 0;
 class _default extends elementorModules.Module {
   constructor() {
+    var _elementorModules$adm;
     super();
-    if (!elementorModules.admin?.MenuHandler) {
+    if (!((_elementorModules$adm = elementorModules.admin) !== null && _elementorModules$adm !== void 0 && _elementorModules$adm.MenuHandler)) {
       return;
     }
     new elementorModules.admin.MenuHandler({
