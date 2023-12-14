@@ -71,6 +71,11 @@ form {
 #form_search .elementor-field-group select {
     border: 1px solid #26528F47;
 }
+
+[type=button], [type=submit], button {
+    border: none !important;
+
+}
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   .section-carr-assuro .elementor-widget-container .elementor-swiper-button-prev,
