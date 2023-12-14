@@ -135,22 +135,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/landing-poliza-salud/</loc>
-		<lastmod>2023-12-07T15:30:24+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Logo-assuro.co_-e1700578602652.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Logo-assuro.co_-e1700578602652.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-7598.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-7599.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/landing/</loc>
 		<lastmod>2023-12-11T15:01:23+00:00</lastmod>
 		<image:image>
@@ -317,6 +301,22 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/avion-3d-elemento-viaje-ilustracion-3d.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/landing-poliza-salud/</loc>
+		<lastmod>2023-12-14T19:12:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/Logo-assuro.co_-e1700578602652.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/Logo-assuro.co_-e1700578602652.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Grupo-7598.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Grupo-7599.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
