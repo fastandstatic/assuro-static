@@ -2,7 +2,55 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-12-14T14:25:35+00:00</lastmod>
+		<lastmod>2023-12-14T19:57:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/logo-allianz-768x768.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/SURA-logo-768x387.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/logo-liberty.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/logo-S-bolivar.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/logo-axa-colpatria.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/logo-zurich-768x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/logo-colsanitas-768x228.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/logo-mapfre.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/logo-colmedica-768x510.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/logo-seguros-del-estado.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/sbs-logo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Chubb-Logo-768x512.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/logo-colmena.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/logo-panamerican-life.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/logo-coomeva.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/logo-seguros-mundial.png</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/09/Grupo-7598.png</image:loc>
 		</image:image>
@@ -269,13 +317,6 @@
 		<lastmod>2023-12-13T14:47:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/prueba-pifia/</loc>
-		<lastmod>2023-12-13T14:50:49+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/este.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/solicitar-ahora/</loc>
 		<lastmod>2023-12-14T14:01:17+00:00</lastmod>
 		<image:image>
@@ -305,7 +346,7 @@
 	</url>
 	<url>
 		<loc>/landing-poliza-salud/</loc>
-		<lastmod>2023-12-14T19:12:11+00:00</lastmod>
+		<lastmod>2023-12-14T20:44:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/01/Logo-assuro.co_-e1700578602652.png</image:loc>
 		</image:image>
