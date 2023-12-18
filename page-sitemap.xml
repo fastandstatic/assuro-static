@@ -301,22 +301,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/salud-seguro/</loc>
-		<lastmod>2023-12-15T14:36:40+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Logo-assuro.co_-e1700578602652.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Logo-assuro.co_-e1700578602652.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-7598.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-7599.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/seguro-de-arrendamiento/</loc>
 		<lastmod>2023-12-15T14:37:31+00:00</lastmod>
 	</url>
@@ -354,6 +338,22 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/avion-3d-elemento-viaje-ilustracion-3d.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/salud-seguro/</loc>
+		<lastmod>2023-12-15T16:13:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/Logo-assuro.co_-e1700578602652.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/Logo-assuro.co_-e1700578602652.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Grupo-7598.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Grupo-7599.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
