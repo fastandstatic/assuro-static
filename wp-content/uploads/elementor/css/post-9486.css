@@ -18,7 +18,8 @@
         font-weight: 400;
 }
 
-#form_assuro_auto .elementor-field-subgroup [type="radio"], #form_assuro_auto .elementor-field-subgroup [type="checkbox"] {
+#form_assuro_auto .elementor-field-subgroup [type="radio"], 
+#form_assuro_auto .elementor-field-subgroup [type="checkbox"] {
     border: 0;
     clip: rect(0 0 0 0);
     height: 1px;
@@ -59,4 +60,12 @@
     margin-right: 0.75em;
     transition: 0.5s ease all;
     background: #5494ed1a;
+}
+
+#form-auto #form_assuro_auto .e-form__indicators {
+    justify-content: center;
+    align-items: center;
+}
+#form-auto #form_assuro_auto .e-form__indicators__indicator__separator {
+    width: 10px;
 }/* End custom CSS */
