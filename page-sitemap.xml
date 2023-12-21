@@ -219,10 +219,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/seguro-de-arrendamiento/</loc>
-		<lastmod>2023-12-18T16:03:09+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/contactanos/</loc>
 		<lastmod>2023-12-18T16:22:55+00:00</lastmod>
 	</url>
@@ -246,13 +242,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Group-7837.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/seguro-de-mascotas/</loc>
-		<lastmod>2023-12-20T13:27:54+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7841.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -306,6 +295,20 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/09/Grupo-7599.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-de-mascotas/</loc>
+		<lastmod>2023-12-21T20:50:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7841.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-de-arrendamiento/</loc>
+		<lastmod>2023-12-21T21:39:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7841-2.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
