@@ -195,13 +195,6 @@
 		<lastmod>2023-12-28T19:14:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/seguro-de-mascotas/</loc>
-		<lastmod>2023-12-28T19:14:39+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7841.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/seguro-para-empresas/</loc>
 		<lastmod>2023-12-28T19:15:00+00:00</lastmod>
 	</url>
@@ -307,9 +300,16 @@
 	</url>
 	<url>
 		<loc>/salud-para-todos/</loc>
-		<lastmod>2024-01-03T15:47:42+00:00</lastmod>
+		<lastmod>2024-01-03T16:30:21+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Group-7841-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-de-mascotas/</loc>
+		<lastmod>2024-01-03T17:29:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7841.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
