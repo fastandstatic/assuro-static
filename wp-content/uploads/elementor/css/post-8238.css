@@ -106,4 +106,68 @@ form {
     #header-assuro #form_search button.elementor-button.elementor-size-sm {
         width: 100%;
     }
+}
+
+
+#form_poliza .elementor-field-subgroup [type="radio"]:checked + label:before {
+    background: #26528F;
+    box-shadow: 0 0 0 2px #26528f6b;
+    border: 1px solid #fff;
+}
+
+#form_poliza .elementor-field-subgroup [type="checkbox"]:checked + label:before {
+    background: #00ffc4;
+    box-shadow: 0 0 0 1px #26528f;
+    border: 3px solid #ffffff;
+    border-radius: 3px;
+}
+
+#form_poliza .elementor-field-subgroup label {
+    cursor: pointer;
+    line-height: 2;
+    font-size: 14px;
+        font-weight: 400;
+}
+
+#form_poliza .elementor-field-subgroup [type="radio"], #form_poliza .elementor-field-subgroup [type="checkbox"] {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+#form_poliza .elementor-field-subgroup [type="radio"] + label {
+    display: block;
+}
+
+#form_poliza .elementor-field-subgroup [type="radio"] + label:before {
+    content: '';
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.25em;
+    border-radius: 1em;
+    border: none;
+    box-shadow: 0 0 0 2px #26528f6b;
+    margin-right: 0.75em;
+    transition: 0.5s ease all;
+    background: #5494ed1a;
+}
+
+#form_poliza .elementor-field-subgroup [type="checkbox"] + label:before {
+    content: '';
+    display: inline-block;
+    width: 1.2em;
+    height: 1.2em;
+    vertical-align: -0.25em;
+    border-radius: 2px;
+    border: none;
+    box-shadow: 0 0 0 1px #26528f6b;
+    margin-right: 0.75em;
+    transition: 0.5s ease all;
+    background: #5494ed1a;
 }/* End custom CSS */
