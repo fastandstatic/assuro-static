@@ -191,14 +191,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/seguro-de-hogar/</loc>
-		<lastmod>2023-12-28T19:14:14+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/seguro-para-empresas/</loc>
-		<lastmod>2023-12-28T19:15:00+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/salud-seguro/</loc>
 		<lastmod>2023-12-28T19:16:21+00:00</lastmod>
 		<image:image>
@@ -209,32 +201,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/09/Grupo-7599.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/seguro-educativo/</loc>
-		<lastmod>2024-01-03T14:43:17+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7843-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7842-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/auto-seguro/</loc>
-		<lastmod>2024-01-03T15:29:19+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7813.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7812.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7834.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -257,13 +223,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Group-7837.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/seguro-de-arrendamiento/</loc>
-		<lastmod>2024-01-03T15:33:52+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7841-2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -299,17 +258,76 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/auto-seguro/</loc>
+		<lastmod>2024-01-05T14:34:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7813.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7812.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7834.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-de-hogar/</loc>
+		<lastmod>2024-01-05T15:10:08+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Mask-Group-45.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-de-mascotas/</loc>
+		<lastmod>2024-01-05T15:10:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/sssdd.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7841.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/salud-para-todos/</loc>
-		<lastmod>2024-01-03T16:30:21+00:00</lastmod>
+		<lastmod>2024-01-05T15:10:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Mask-Group-49-1.png</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Group-7841-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/seguro-de-mascotas/</loc>
-		<lastmod>2024-01-03T17:29:27+00:00</lastmod>
+		<loc>/seguro-de-arrendamiento/</loc>
+		<lastmod>2024-01-05T15:10:38+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7841.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/01/Mask-Group-49.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7841-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-para-empresas/</loc>
+		<lastmod>2024-01-05T15:10:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Mask-Group-46.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-educativo/</loc>
+		<lastmod>2024-01-05T15:16:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/aaass.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7843-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7842-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
