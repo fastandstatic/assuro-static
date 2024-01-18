@@ -284,16 +284,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/seguro-de-mascotas/</loc>
-		<lastmod>2024-01-18T14:33:19+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/sssdd-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7841.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/salud-para-todos/</loc>
 		<lastmod>2024-01-18T14:34:02+00:00</lastmod>
 		<image:image>
@@ -331,6 +321,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Group-7842-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-de-mascotas/</loc>
+		<lastmod>2024-01-18T16:29:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/sssdd-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7841.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
