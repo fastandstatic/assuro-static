@@ -2,82 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-01-19T15:28:43+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/logo-allianz-768x768.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/SURA-logo-768x387.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/logo-liberty.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/logo-S-bolivar.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/logo-axa-colpatria.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/logo-zurich-768x300.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/logo-colsanitas-768x228.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/logo-mapfre.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/logo-colmedica-768x510.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/logo-seguros-del-estado.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/sbs-logo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Chubb-Logo-768x512.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/logo-colmena.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/logo-panamerican-life.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/logo-coomeva.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/logo-seguros-mundial.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-7598.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-7599.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ilustracion-3d-mano-que-sostiene-lista-verificacion-telefonos-inteligentes.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ilustracion-3d-mano-que-sostiene-lista-verificacion-telefonos-inteligentes.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ilustracion-3d-mano-que-sostiene-lista-verificacion-telefonos-inteligentes.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ilustracion-3d-mano-que-sostiene-lista-verificacion-telefonos-inteligentes.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/icono-3d-apreton-manos-marca-verificacion-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/3d-render-mano-sujetando-concepto-negocio-estrellas-doradas.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38.png</image:loc>
-		</image:image>
+		<lastmod>2024-01-24T16:47:20+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/landing2/</loc>
@@ -229,49 +154,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/seguro-de-arrendamiento/</loc>
-		<lastmod>2024-01-18T14:38:30+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/Mask-Group-51.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7841-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/auto-seguro/</loc>
-		<lastmod>2024-01-18T19:02:25+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7813.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7812.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7834.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/salud-para-todos/</loc>
-		<lastmod>2024-01-18T19:02:44+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/Enmascarar-grupo-40-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7841-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/seguro-de-hogar/</loc>
-		<lastmod>2024-01-18T19:05:08+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/Mask-Group-45.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/seguro-educativo/</loc>
 		<lastmod>2024-01-18T19:05:43+00:00</lastmod>
 		<image:image>
@@ -292,24 +174,18 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/vida-seguro/</loc>
-		<lastmod>2024-01-18T19:06:21+00:00</lastmod>
+		<loc>/seguro-de-mascotas/</loc>
+		<lastmod>2024-01-19T15:13:24+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/este.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/01/sssdd-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7726.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7724.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Group-7841.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/salud-seguro/</loc>
-		<lastmod>2024-01-19T14:52:52+00:00</lastmod>
+		<lastmod>2024-01-24T16:48:58+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/01/Logo-assuro.co_-e1700578602652.png</image:loc>
 		</image:image>
@@ -324,13 +200,62 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/seguro-de-mascotas/</loc>
-		<lastmod>2024-01-19T15:13:24+00:00</lastmod>
+		<loc>/auto-seguro/</loc>
+		<lastmod>2024-01-24T16:52:01+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/sssdd-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38-2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7841.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Group-7813.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7812.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7834.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-de-hogar/</loc>
+		<lastmod>2024-01-24T16:56:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Mask-Group-45.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/vida-seguro/</loc>
+		<lastmod>2024-01-24T19:35:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/este.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7726.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7724.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-de-arrendamiento/</loc>
+		<lastmod>2024-01-24T20:25:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Mask-Group-51.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7841-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/salud-para-todos/</loc>
+		<lastmod>2024-01-24T20:39:43+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Enmascarar-grupo-40-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7841-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
