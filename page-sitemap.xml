@@ -249,22 +249,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/salud-seguro/</loc>
-		<lastmod>2024-01-29T14:57:16+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Logo-assuro.co_-e1700578602652.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/Pagina-interna-salud.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-7598.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-7599.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/auto-seguro/</loc>
 		<lastmod>2024-01-29T15:04:31+00:00</lastmod>
 		<image:image>
@@ -331,6 +315,22 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Group-7841-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/salud-seguro/</loc>
+		<lastmod>2024-01-29T15:26:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/Logo-assuro.co_-e1700578602652.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Pagina-interna-salud.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Grupo-7598.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Grupo-7599.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
