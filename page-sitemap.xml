@@ -229,13 +229,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/seguro-de-hogar/</loc>
-		<lastmod>2024-01-24T16:56:21+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/Mask-Group-45.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/seguro-para-empresas/</loc>
 		<lastmod>2024-01-25T14:14:02+00:00</lastmod>
 		<image:image>
@@ -250,22 +243,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Group-7841.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/vida-seguro/</loc>
-		<lastmod>2024-01-25T15:23:59+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/este.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7726.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7724.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -308,8 +285,34 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/seguro-de-arrendamiento/</loc>
+		<lastmod>2024-01-25T15:30:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Mask-Group-51.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7841-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/vida-seguro/</loc>
+		<lastmod>2024-01-29T14:52:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/este.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7726.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7724.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/salud-seguro/</loc>
-		<lastmod>2024-01-25T15:30:35+00:00</lastmod>
+		<lastmod>2024-01-29T14:57:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/01/Logo-assuro.co_-e1700578602652.png</image:loc>
 		</image:image>
@@ -324,13 +327,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/seguro-de-arrendamiento/</loc>
-		<lastmod>2024-01-25T15:30:44+00:00</lastmod>
+		<loc>/seguro-de-hogar/</loc>
+		<lastmod>2024-01-29T14:58:12+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/Mask-Group-51.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7841-2.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/01/Mask-Group-45.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
