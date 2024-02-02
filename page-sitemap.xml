@@ -229,28 +229,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/seguro-de-mascotas/</loc>
-		<lastmod>2024-01-25T15:15:53+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/sssdd-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7841.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/salud-para-todos/</loc>
-		<lastmod>2024-01-25T15:30:14+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/Enmascarar-grupo-40-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7841-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/auto-seguro/</loc>
-		<lastmod>2024-01-29T15:04:31+00:00</lastmod>
+		<lastmod>2024-02-02T14:32:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38-2.png</image:loc>
 		</image:image>
@@ -265,61 +245,18 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/vida-seguro/</loc>
-		<lastmod>2024-01-29T15:07:15+00:00</lastmod>
+		<loc>/salud-para-todos/</loc>
+		<lastmod>2024-02-02T14:32:33+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/este.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/01/Enmascarar-grupo-40-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7726.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7724.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/seguro-para-empresas/</loc>
-		<lastmod>2024-01-29T15:08:01+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/pagina-interna-empresarial-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/seguro-educativo/</loc>
-		<lastmod>2024-01-29T15:08:30+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/aaass-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7843-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7842-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/seguro-de-hogar/</loc>
-		<lastmod>2024-01-29T15:09:03+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/Mask-Group-45.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/seguro-de-arrendamiento/</loc>
-		<lastmod>2024-01-29T15:09:28+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/Mask-Group-51.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7841-2.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Group-7841-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/salud-seguro/</loc>
-		<lastmod>2024-01-29T15:26:26+00:00</lastmod>
+		<lastmod>2024-02-02T14:32:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/01/Logo-assuro.co_-e1700578602652.png</image:loc>
 		</image:image>
@@ -331,6 +268,69 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/09/Grupo-7599.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-de-arrendamiento/</loc>
+		<lastmod>2024-02-02T14:32:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Mask-Group-51.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7841-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-de-hogar/</loc>
+		<lastmod>2024-02-02T14:33:09+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Mask-Group-45.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-de-mascotas/</loc>
+		<lastmod>2024-02-02T14:33:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/sssdd-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7841.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-educativo/</loc>
+		<lastmod>2024-02-02T14:33:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/aaass-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7843-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7842-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-para-empresas/</loc>
+		<lastmod>2024-02-02T14:33:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/pagina-interna-empresarial-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/vida-seguro/</loc>
+		<lastmod>2024-02-02T14:33:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/este.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7726.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7724.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
