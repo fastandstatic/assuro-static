@@ -229,22 +229,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/auto-seguro/</loc>
-		<lastmod>2024-02-02T14:32:14+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7813.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7812.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7834.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/salud-para-todos/</loc>
 		<lastmod>2024-02-02T14:32:33+00:00</lastmod>
 		<image:image>
@@ -272,49 +256,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/seguro-de-mascotas/</loc>
-		<lastmod>2024-02-02T14:33:25+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/sssdd-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7841.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/seguro-educativo/</loc>
-		<lastmod>2024-02-02T14:33:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/aaass-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7843-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7842-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/seguro-para-empresas/</loc>
 		<lastmod>2024-02-02T14:33:48+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/01/pagina-interna-empresarial-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/vida-seguro/</loc>
-		<lastmod>2024-02-02T14:33:57+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/este.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7726.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7724.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -331,6 +276,61 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/09/Grupo-7599.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-educativo/</loc>
+		<lastmod>2024-02-06T15:37:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/aaass-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7843-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7842-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/vida-seguro/</loc>
+		<lastmod>2024-02-06T15:37:23+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/este.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7726.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7724.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/auto-seguro/</loc>
+		<lastmod>2024-02-06T15:41:08+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7813.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7812.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7834.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-de-mascotas/</loc>
+		<lastmod>2024-02-06T16:10:14+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/sssdd-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7841.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
