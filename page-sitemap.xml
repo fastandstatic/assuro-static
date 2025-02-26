@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-01-25T15:23:15+00:00</lastmod>
+		<lastmod>2024-11-29T14:57:29+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/01/Mask-Group-6.png</image:loc>
 		</image:image>
@@ -80,101 +80,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/landing2/</loc>
-		<lastmod>2023-11-16T22:06:34+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Logo-assuro.co_-e1700064205121.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-7598.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-7599.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-7592.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Enmascarar-grupo-4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-7594.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-7600.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-7600.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-7600.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/landing/</loc>
-		<lastmod>2023-12-11T15:01:23+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/11/Grupo-45-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/Grupo-1064-e1700667302143.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/Grupo-1068-e1700667506168.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/Grupo-1065-e1700667617342.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/Grupo-1069-e1700667636319.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/Grupo-1067-e1700667655290.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/Grupo-1066-e1700667676593.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-26.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-25.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-26.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-24.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/GRAFICO.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-8.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-17.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-6.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-18.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-7.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-19.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-5.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/Logo-assuro.co_-e1700578602652.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/conocenos-assuro/</loc>
 		<lastmod>2024-01-03T15:33:01+00:00</lastmod>
 		<image:image>
@@ -239,13 +144,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/seguro-para-empresas/</loc>
-		<lastmod>2024-02-02T14:33:48+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/pagina-interna-empresarial-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/seguro-educativo/</loc>
 		<lastmod>2024-02-06T15:37:06+00:00</lastmod>
 		<image:image>
@@ -276,22 +174,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Group-7841.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/auto-seguro/</loc>
-		<lastmod>2024-03-01T16:58:53+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7813.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7812.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Group-7834.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -331,6 +213,90 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/09/Grupo-7599.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/auto-seguro/</loc>
+		<lastmod>2024-10-07T15:12:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Mask-Group-38-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7813.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7812.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Group-7834.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seguro-para-empresas/</loc>
+		<lastmod>2024-11-29T14:52:58+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/pagina-interna-empresarial-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/landing/</loc>
+		<lastmod>2025-02-26T20:21:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/11/Grupo-45-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/11/Grupo-1064-e1700667302143.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/11/Grupo-1068-e1700667506168.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/11/Grupo-1065-e1700667617342.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/11/Grupo-1069-e1700667636319.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/11/Grupo-1067-e1700667655290.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/11/Grupo-1066-e1700667676593.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-26.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-25.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-26.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-24.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/GRAFICO.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-8.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-17.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-18.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-19.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/Enmascarar-grupo-5.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
